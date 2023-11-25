@@ -9,10 +9,8 @@ int main(void)
 {
 	char *cmd;
 
-	while(cmd != NULL)
+	while (cmd != NULL)
 	{
-		show_start_icon()
-
-		 
+		show_start_icon();
 	}
 
